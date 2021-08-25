@@ -30,3 +30,6 @@ df.filter(df['age'] >= 10).show()
 df.createOrReplaceTempView("temp")
 some_registers = my_spark.sql("SELECT name, age FROM temp WHERE name LIKE '%h%'")
 some_registers.show()
+
+sum_registers = my_spark.sql("SELECT SUM(age) FROM temp WHERE name LIKE '%h%'")
+sum_registers.show()
