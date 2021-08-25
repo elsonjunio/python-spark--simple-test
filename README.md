@@ -17,4 +17,8 @@ $ wget https://repo1.maven.org/maven2/org/mongodb/spark/mongo-spark-connector_2.
 $ wget https://repo1.maven.org/maven2/org/mongodb/mongo-java-driver/3.11.2/mongo-java-driver-3.11.2.jar
 ```
 
-See more in https://docs.mongodb.com/spark-connector/current/python-api/
+More:
+```
+https://docs.mongodb.com/spark-connector/current/python-api/
+https://dzone.com/articles/pyspark-join-explained-with-examples
+```
