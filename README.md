@@ -21,4 +21,6 @@ More:
 ```
 https://docs.mongodb.com/spark-connector/current/python-api/
 https://dzone.com/articles/pyspark-join-explained-with-examples
+https://docs.databricks.com/_static/notebooks/mongodb.html
+https://www.youtube.com/watch?v=Dt7BSE1Bdis
 ```
